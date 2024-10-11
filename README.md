@@ -9,37 +9,37 @@
 [JobJourney API Docs ](http://ec2-3-39-165-26.ap-northeast-2.compute.amazonaws.com:8080/swagger-ui/index.html) | [팀 회의록](https://www.notion.so/fb4ca4dad1cb4dd79a1448162a05409b?v=acde86b06c06469dad47089da7e4c1a8) 
 
 
-## 개발 기간
+## 📆 개발 기간
 * 24.03.11일 ~ 24.06.03일
 
-## 기술스택
+## 🛠️ 기술 스택
 - **Language**: Java 21
 - **Framework** : Springboot(3.2.3)
 - **Database** : MySQL
 - **ORM** : JPA
 - **Testing** : JUnit5, Locust
 
-## 개발 내용 (★: 내가 개발한 것)
+## 💻 개발 내용 (✅: 내가 개발한 것)
 ### 모의 면접
- - 자소서 CRUD (★)
- -	Gemini API 연동
- -	Google TTS, STT API 연동
- -	면접 영상 CRUD (★)
+ - 자소서 CRUD
+ -	Gemini API 연동 ✅
+ -	Google TTS, STT API 연동 ✅
+ -	면접 영상 CRUD
 
 ### 커뮤니티
- - 게시글 CRUD (★)
- - 게시글 검색 기능 (제목, 내용) (★)
- - 댓글 CRUD (★)
- - 게시글 좋아요 및 신고 기능 (★)
- - 댓글, 좋아요 알림 기능 (★)
+ - 게시글 CRUD
+ - 게시글 검색 기능 (제목, 내용)
+ - 댓글 CRUD
+ - 게시글 좋아요 및 신고 기능
+ - 댓글, 좋아요 알림 기능
 
 ### 로그인/회원가입
-- 회원가입
-- 소셜 로그인 (구글)
-- 로그인 기능 (JWT 토큰 활용)
+- 회원가입 ✅
+- 소셜 로그인 (구글) ✅
+- 로그인 기능 (JWT 토큰 활용) ✅
 
 
-## 프로젝트 화면
+## 🌟 프로젝트 화면
 
 ### 메인화면
 <img width="400" alt="image" src="https://github.com/syh24/interview/assets/64251594/dca04873-71d5-44be-972d-1056b94cbde1">
@@ -67,14 +67,14 @@
 
 
 
-## Backend 구조
+## ⚙️ Backend 구조
 <img width="452" alt="image" src="https://github.com/user-attachments/assets/64ebbb77-d03c-4d06-8dd5-d34be0004dec">
 
 
-## ERD Schema Diagram
+## ⚙️ ERD Schema Diagram
 <img src="https://github.com/syh24/interview/assets/64251594/b20cc98b-b013-4aa2-9e4f-5fefcc14b80e" width="500" height="500">
 
 
-## 발표자료료
+## ⚙️ 발표자료
 [발표자료.pptx](https://github.com/user-attachments/files/16893482/default.pptx)
 
